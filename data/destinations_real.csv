@@ -1,0 +1,1001 @@
+destination,avg_temp,hotel_price,unesco_sites,beach,hiking_score,museum_score,kid_friendly,luxury_hotels,label
+Barcelona,15,57,4,0,3,2,0,0,Budget
+Barcelona,29,89,6,0,0,1,0,0,Culture
+Rome,28,353,0,0,10,8,1,1,Adventure
+Rome,26,346,4,0,2,6,1,1,Luxury
+Dubai,16,155,5,0,1,6,0,0,Culture
+London,23,354,4,0,7,8,0,1,Luxury
+Cancun,24,85,8,1,10,9,1,0,Culture
+Cape Town,18,405,1,0,10,3,1,1,Adventure
+Tokyo,19,96,6,1,7,10,1,0,Culture
+Bali,23,226,3,1,10,10,0,0,Relaxation
+Cape Town,32,132,8,0,2,7,1,0,Culture
+Dubai,32,397,8,0,10,5,0,1,Culture
+Rome,13,206,6,1,1,3,1,0,Culture
+Rome,32,300,6,1,2,4,0,1,Culture
+Rome,29,320,4,1,9,6,1,1,Relaxation
+Rome,16,305,7,0,0,1,0,1,Culture
+Barcelona,17,393,6,0,6,6,1,1,Culture
+Sydney,20,328,0,0,10,8,1,1,Adventure
+Athens,32,219,1,1,6,2,1,0,Relaxation
+Paris,20,301,2,0,10,4,0,1,Adventure
+Bali,23,127,8,0,9,5,1,0,Culture
+Paris,15,230,4,0,0,3,0,0,Family
+Tokyo,27,80,8,0,2,10,1,0,Culture
+Sydney,17,180,8,1,3,8,0,0,Culture
+New York,21,249,5,1,8,7,0,0,Culture
+Rome,19,77,5,0,9,8,0,0,Culture
+Cape Town,19,48,1,0,3,1,0,0,Budget
+Singapore,22,81,8,0,4,10,1,0,Culture
+Rome,29,112,7,0,7,6,0,0,Culture
+Tokyo,15,382,6,1,6,6,1,1,Culture
+Singapore,13,389,1,0,6,5,0,1,Luxury
+Rome,18,142,8,1,2,6,0,0,Culture
+Dubai,26,172,1,1,8,1,0,0,Relaxation
+Barcelona,29,52,1,0,2,6,1,0,Budget
+Kyoto,18,250,0,0,6,0,1,0,Family
+Dubai,26,191,6,1,2,3,1,0,Culture
+Rome,13,341,8,0,5,0,0,1,Culture
+Cape Town,27,302,8,0,0,8,0,1,Culture
+Singapore,17,80,1,0,6,1,0,0,Family
+Cape Town,31,65,1,1,10,9,1,0,Relaxation
+Cancun,20,149,5,0,4,6,0,0,Culture
+Barcelona,32,198,7,1,1,0,1,0,Culture
+Cape Town,30,96,1,0,8,4,0,0,Adventure
+Cancun,23,80,3,1,4,2,1,0,Relaxation
+Singapore,29,405,4,0,10,8,1,1,Adventure
+Cancun,33,98,2,1,1,1,0,0,Relaxation
+Dubai,21,354,3,1,3,10,1,1,Relaxation
+Sydney,27,173,0,0,10,6,1,0,Adventure
+Paris,12,215,2,1,2,7,1,0,Relaxation
+Sydney,12,102,1,0,8,0,1,0,Adventure
+Cape Town,29,120,6,0,0,4,1,0,Culture
+Cancun,13,228,3,0,10,1,1,0,Adventure
+Athens,29,253,2,0,2,2,1,1,Luxury
+Paris,17,215,6,0,4,2,0,0,Culture
+Bangkok,13,285,3,0,7,5,1,1,Luxury
+Singapore,19,159,0,0,6,5,1,0,Family
+Singapore,14,187,5,1,10,8,1,0,Culture
+Paris,15,178,2,1,0,1,1,0,Relaxation
+London,22,268,8,0,6,9,0,1,Culture
+Dubai,13,407,6,0,8,8,0,1,Culture
+London,25,80,5,1,10,1,1,0,Culture
+Sydney,21,386,6,1,6,4,0,1,Culture
+Rome,25,385,6,0,9,9,1,1,Culture
+Bangkok,29,45,4,1,3,6,1,0,Relaxation
+Kyoto,26,271,3,1,2,10,0,1,Relaxation
+Dubai,28,384,5,0,3,10,1,1,Culture
+Rome,18,120,0,0,3,7,0,0,Family
+Kyoto,25,367,3,1,7,6,0,1,Relaxation
+Bali,32,397,0,0,6,3,0,1,Luxury
+Athens,34,310,7,0,8,3,0,1,Culture
+Kyoto,16,282,8,1,7,9,1,1,Culture
+Singapore,29,273,2,1,7,4,0,1,Relaxation
+Singapore,32,186,8,1,10,3,1,0,Culture
+Kyoto,14,410,4,0,4,5,1,1,Luxury
+Cancun,29,86,2,0,3,6,0,0,Family
+New York,18,77,6,1,5,8,1,0,Culture
+Bangkok,13,150,6,1,9,0,1,0,Culture
+Kyoto,12,225,4,1,6,8,0,0,Relaxation
+Kyoto,19,184,6,1,0,6,1,0,Culture
+Barcelona,33,252,2,1,2,9,0,1,Relaxation
+Cancun,24,348,0,0,10,6,0,1,Adventure
+Singapore,26,138,0,1,6,5,0,0,Relaxation
+Kyoto,22,217,6,1,6,4,0,0,Culture
+Kyoto,12,321,0,1,3,10,0,1,Relaxation
+Athens,32,65,0,0,3,0,0,0,Budget
+Rome,16,287,1,0,7,4,1,1,Luxury
+Bali,31,355,1,0,4,1,0,1,Luxury
+Cancun,21,339,6,1,3,1,0,1,Culture
+Tokyo,34,199,1,0,5,8,1,0,Family
+Barcelona,23,80,8,1,0,6,1,0,Culture
+Tokyo,25,230,7,0,6,2,1,0,Culture
+Cape Town,29,292,7,1,9,4,1,1,Culture
+Singapore,19,89,4,1,3,7,1,0,Relaxation
+London,12,298,5,0,7,3,1,1,Culture
+Athens,20,219,4,1,8,0,0,0,Relaxation
+Tokyo,19,413,6,1,8,3,1,1,Culture
+Barcelona,34,296,7,0,1,4,0,1,Culture
+Bangkok,34,169,4,1,7,8,1,0,Relaxation
+Bangkok,29,214,5,1,4,4,1,0,Culture
+Rome,15,414,3,1,1,8,0,1,Relaxation
+Rome,18,292,4,1,1,3,1,1,Relaxation
+Rome,23,136,4,0,8,2,1,0,Adventure
+Paris,13,328,4,0,10,7,0,1,Adventure
+Singapore,12,338,4,1,7,7,1,1,Relaxation
+Bali,13,174,7,0,1,6,1,0,Culture
+Tokyo,30,367,0,0,2,9,1,1,Luxury
+Tokyo,19,105,8,1,9,9,0,0,Culture
+Athens,28,239,7,1,4,9,1,0,Culture
+Dubai,30,362,0,0,3,10,0,1,Luxury
+Dubai,33,86,2,0,2,8,0,0,Family
+Bali,12,254,7,1,4,0,0,1,Culture
+Dubai,34,189,7,0,10,3,1,0,Culture
+Athens,32,346,3,1,1,8,0,1,Relaxation
+Barcelona,16,181,2,0,0,2,1,0,Family
+Cape Town,30,192,7,0,7,4,1,0,Culture
+Dubai,28,321,7,1,1,9,0,1,Culture
+Cancun,25,210,4,0,1,3,0,0,Family
+Athens,33,182,0,0,7,8,1,0,Family
+Cancun,20,137,6,1,1,7,1,0,Culture
+Bangkok,22,209,1,0,5,6,1,0,Family
+Dubai,33,250,8,0,7,1,1,0,Culture
+Dubai,22,104,6,0,10,8,1,0,Culture
+Bangkok,13,141,8,1,9,7,1,0,Culture
+Athens,13,149,4,0,4,7,1,0,Family
+Tokyo,12,367,3,0,4,8,0,1,Luxury
+Sydney,25,92,3,0,7,1,0,0,Family
+Kyoto,34,194,8,1,6,7,1,0,Culture
+Rome,26,327,2,1,3,9,0,1,Relaxation
+Singapore,14,186,6,1,8,4,0,0,Culture
+Dubai,21,345,7,0,7,8,1,1,Culture
+London,22,327,8,1,7,5,0,1,Culture
+New York,19,337,6,0,6,0,1,1,Culture
+New York,27,406,6,1,10,10,0,1,Culture
+Kyoto,13,109,8,1,1,7,0,0,Culture
+Sydney,26,52,2,1,10,2,0,0,Relaxation
+Kyoto,20,218,6,0,5,10,1,0,Culture
+London,32,412,7,0,9,1,0,1,Culture
+Barcelona,33,192,3,0,6,1,0,0,Family
+Kyoto,17,400,4,0,0,5,0,1,Luxury
+Dubai,23,236,6,0,3,8,1,0,Culture
+Cape Town,33,137,2,0,1,9,1,0,Family
+Cape Town,33,168,7,0,3,7,1,0,Culture
+Kyoto,20,386,0,1,4,10,0,1,Relaxation
+Tokyo,26,221,4,1,4,7,1,0,Relaxation
+Rome,24,292,1,0,6,9,1,1,Luxury
+Cape Town,21,403,4,0,10,6,1,1,Adventure
+Paris,30,396,0,1,4,3,1,1,Relaxation
+Rome,32,142,4,0,10,1,0,0,Adventure
+Dubai,26,62,5,0,1,4,1,0,Culture
+New York,25,134,3,0,8,5,1,0,Adventure
+Singapore,17,176,7,1,5,1,1,0,Culture
+Tokyo,16,160,6,1,1,6,0,0,Culture
+Dubai,29,108,7,1,10,10,1,0,Culture
+Cape Town,24,371,5,0,10,3,1,1,Culture
+Paris,31,332,5,0,10,1,1,1,Culture
+Cancun,34,199,6,0,2,0,0,0,Culture
+Dubai,27,104,1,0,8,2,1,0,Adventure
+Kyoto,23,388,8,1,9,2,1,1,Culture
+Barcelona,15,295,6,1,0,5,0,1,Culture
+Kyoto,26,165,5,0,10,5,1,0,Culture
+Paris,24,186,3,0,7,1,0,0,Family
+Barcelona,32,350,0,0,5,3,0,1,Luxury
+Athens,30,150,1,0,9,3,0,0,Adventure
+London,16,350,0,1,2,2,1,1,Relaxation
+Athens,17,101,0,0,0,5,0,0,Family
+Cape Town,22,53,2,1,0,2,1,0,Relaxation
+Sydney,15,77,7,1,5,8,0,0,Culture
+Kyoto,28,158,0,1,7,10,0,0,Relaxation
+Paris,27,250,6,0,7,7,0,0,Culture
+Cancun,14,209,2,0,2,4,1,0,Family
+Bangkok,31,316,4,1,8,9,1,1,Relaxation
+Tokyo,34,103,8,0,6,7,0,0,Culture
+Bangkok,22,277,6,1,1,5,1,1,Culture
+London,33,175,5,0,10,7,0,0,Culture
+Tokyo,14,92,6,0,5,2,0,0,Culture
+Cape Town,29,332,5,0,6,5,1,1,Culture
+Singapore,13,192,4,1,1,9,0,0,Relaxation
+Bali,33,291,3,0,5,8,1,1,Luxury
+Tokyo,20,338,3,1,8,9,0,1,Relaxation
+Cape Town,33,400,4,0,2,4,1,1,Luxury
+Cancun,22,224,0,0,2,9,1,0,Family
+Tokyo,16,369,0,0,8,3,1,1,Adventure
+Bangkok,26,219,2,1,4,5,0,0,Relaxation
+Cancun,13,124,2,0,10,1,1,0,Adventure
+Kyoto,33,262,7,1,6,4,0,1,Culture
+Athens,28,103,5,1,1,4,1,0,Culture
+Sydney,33,202,0,0,6,9,0,0,Family
+Paris,18,199,3,0,4,4,1,0,Family
+Tokyo,12,299,6,0,2,6,0,1,Culture
+Sydney,29,387,5,0,6,0,1,1,Culture
+Paris,26,84,5,1,9,6,1,0,Culture
+Dubai,15,252,0,1,2,9,1,1,Relaxation
+Singapore,34,230,1,1,1,3,1,0,Relaxation
+Cape Town,24,313,1,1,4,5,0,1,Relaxation
+London,17,84,8,0,8,8,0,0,Culture
+Cancun,23,224,2,0,1,2,1,0,Family
+Rome,17,353,2,0,2,10,1,1,Luxury
+Kyoto,30,341,7,1,10,5,0,1,Culture
+Kyoto,14,285,7,1,4,9,0,1,Culture
+London,28,82,4,1,7,0,0,0,Relaxation
+London,21,84,1,1,7,9,0,0,Relaxation
+Kyoto,30,378,3,1,9,7,0,1,Relaxation
+Paris,26,97,5,0,8,10,0,0,Culture
+Paris,19,407,7,1,8,8,0,1,Culture
+London,23,189,6,1,5,10,0,0,Culture
+Athens,32,376,5,0,5,1,1,1,Culture
+Dubai,20,415,2,1,1,9,0,1,Relaxation
+Cancun,23,203,6,0,9,1,1,0,Culture
+Sydney,24,374,5,0,10,10,0,1,Culture
+Barcelona,33,261,8,1,0,5,1,1,Culture
+Bali,18,219,7,0,3,2,0,0,Culture
+Tokyo,21,96,8,0,10,5,0,0,Culture
+Cape Town,24,123,2,0,9,2,1,0,Adventure
+Paris,25,231,3,1,9,4,1,0,Relaxation
+Rome,29,167,4,1,3,5,1,0,Relaxation
+Kyoto,21,240,8,1,2,3,0,0,Culture
+Singapore,20,71,7,1,8,1,0,0,Culture
+Dubai,14,127,4,1,8,2,1,0,Relaxation
+Tokyo,19,275,5,0,6,0,1,1,Culture
+Sydney,23,165,6,0,5,3,0,0,Culture
+London,15,410,5,0,2,0,1,1,Culture
+Cancun,27,401,2,1,7,9,0,1,Relaxation
+Cancun,14,54,4,0,2,8,1,0,Budget
+Tokyo,21,166,4,0,0,3,1,0,Family
+Barcelona,31,279,1,0,7,9,0,1,Luxury
+Barcelona,28,339,3,0,4,6,0,1,Luxury
+Cape Town,23,168,6,0,10,10,0,0,Culture
+Sydney,23,79,8,0,6,7,0,0,Culture
+Barcelona,24,236,4,0,5,1,1,0,Family
+Rome,33,366,1,1,2,0,1,1,Relaxation
+Sydney,22,374,2,1,7,10,0,1,Relaxation
+Athens,16,77,7,0,4,3,0,0,Culture
+Athens,18,66,5,1,8,6,1,0,Culture
+Dubai,13,376,3,1,5,0,1,1,Relaxation
+Dubai,15,233,6,1,7,6,1,0,Culture
+Bali,27,399,7,1,8,4,0,1,Culture
+New York,25,85,6,0,8,4,1,0,Culture
+Tokyo,14,212,4,1,7,9,1,0,Relaxation
+Bali,34,272,5,1,0,5,1,1,Culture
+Dubai,32,74,1,1,5,8,0,0,Relaxation
+Paris,16,356,7,0,2,1,0,1,Culture
+Athens,32,232,5,1,9,0,0,0,Culture
+Barcelona,26,234,5,1,1,9,0,0,Culture
+Sydney,23,248,5,1,3,1,0,0,Culture
+New York,17,300,8,1,8,1,1,1,Culture
+Athens,20,405,7,0,9,4,1,1,Culture
+Rome,15,114,1,1,2,7,0,0,Relaxation
+Athens,33,208,5,0,8,8,1,0,Culture
+Cancun,21,125,2,1,8,3,0,0,Relaxation
+Rome,16,166,7,0,5,8,1,0,Culture
+Kyoto,29,111,1,0,4,6,1,0,Family
+Sydney,25,254,1,0,5,10,0,1,Luxury
+Kyoto,26,393,8,1,2,8,0,1,Culture
+Athens,16,266,8,0,1,8,0,1,Culture
+Dubai,17,127,5,0,5,8,1,0,Culture
+Singapore,14,173,3,1,2,10,1,0,Relaxation
+Cape Town,29,92,8,0,9,9,0,0,Culture
+Bali,33,364,5,0,0,1,0,1,Culture
+Barcelona,30,180,3,1,9,10,0,0,Relaxation
+Kyoto,32,324,4,1,7,3,1,1,Relaxation
+Dubai,26,82,0,0,7,6,1,0,Family
+Kyoto,18,219,2,1,5,5,1,0,Relaxation
+Bali,23,308,8,0,5,3,1,1,Culture
+Tokyo,20,275,3,0,1,0,1,1,Luxury
+Bangkok,31,259,3,0,5,9,1,1,Luxury
+Rome,17,300,8,1,7,4,1,1,Culture
+Paris,14,246,8,1,3,3,1,0,Culture
+Paris,13,189,7,1,4,8,0,0,Culture
+Singapore,15,265,2,1,5,6,1,1,Relaxation
+Paris,24,71,8,0,5,8,1,0,Culture
+Tokyo,24,303,7,1,9,10,0,1,Culture
+Bali,15,246,5,1,8,5,0,0,Culture
+Rome,31,305,6,0,0,0,0,1,Culture
+New York,22,287,8,1,2,9,0,1,Culture
+London,31,208,2,1,9,4,1,0,Relaxation
+Sydney,28,317,7,1,7,0,1,1,Culture
+London,33,101,6,1,10,0,1,0,Culture
+Dubai,32,341,3,0,9,7,0,1,Adventure
+Sydney,32,414,6,0,10,3,0,1,Culture
+Cape Town,34,101,3,0,7,5,1,0,Family
+Bali,25,398,3,1,8,9,1,1,Relaxation
+Singapore,13,406,2,0,8,5,1,1,Adventure
+Sydney,24,205,2,1,8,5,1,0,Relaxation
+Barcelona,33,374,4,1,3,3,1,1,Relaxation
+Sydney,21,160,4,1,3,7,1,0,Relaxation
+Kyoto,23,331,4,1,1,9,1,1,Relaxation
+Cancun,24,221,2,1,0,4,0,0,Relaxation
+London,26,380,4,1,3,3,1,1,Relaxation
+Cancun,29,401,4,0,1,9,0,1,Luxury
+Rome,13,387,8,0,10,3,0,1,Culture
+Tokyo,25,214,7,0,10,2,0,0,Culture
+Sydney,17,253,7,1,10,3,1,1,Culture
+London,21,375,0,0,10,9,0,1,Adventure
+Sydney,13,134,6,0,0,6,1,0,Culture
+Bali,21,64,0,1,9,9,0,0,Relaxation
+Cancun,22,190,7,1,2,8,1,0,Culture
+Dubai,18,102,5,0,7,10,1,0,Culture
+New York,17,52,5,1,9,10,0,0,Culture
+Bali,31,372,6,1,8,5,0,1,Culture
+Bangkok,33,93,2,0,7,5,0,0,Family
+Paris,20,241,3,1,4,5,1,0,Relaxation
+Cape Town,30,50,4,1,3,0,0,0,Relaxation
+Kyoto,21,126,6,1,1,10,1,0,Culture
+London,31,158,3,0,7,2,1,0,Family
+New York,31,236,6,1,8,10,0,0,Culture
+Athens,19,393,1,1,8,5,0,1,Relaxation
+Cancun,30,102,0,0,9,8,0,0,Adventure
+Bali,22,311,7,0,10,3,1,1,Culture
+Tokyo,28,273,0,1,2,8,1,1,Relaxation
+Kyoto,30,74,8,1,10,4,0,0,Culture
+Bangkok,20,46,3,0,0,6,1,0,Budget
+New York,14,322,0,0,7,0,1,1,Luxury
+Bangkok,17,114,6,1,6,7,1,0,Culture
+Bangkok,14,394,8,0,10,5,0,1,Culture
+Bali,29,246,8,0,3,0,0,0,Culture
+Dubai,26,389,8,1,8,6,0,1,Culture
+Rome,26,222,2,1,3,1,0,0,Relaxation
+Athens,33,259,0,0,3,1,0,1,Luxury
+Cape Town,13,273,0,0,0,6,1,1,Luxury
+Rome,29,156,0,0,8,4,0,0,Adventure
+Singapore,30,208,5,0,4,2,0,0,Culture
+Bangkok,21,185,0,0,10,10,1,0,Adventure
+Sydney,27,69,5,1,8,5,1,0,Culture
+Bangkok,16,198,6,0,8,7,0,0,Culture
+Singapore,19,198,2,1,0,8,1,0,Relaxation
+Bangkok,29,316,2,1,3,4,0,1,Relaxation
+London,32,85,7,1,1,8,0,0,Culture
+Paris,20,238,0,0,3,9,0,0,Family
+Kyoto,18,215,4,0,3,3,0,0,Family
+New York,27,169,3,1,3,8,1,0,Relaxation
+Athens,21,239,7,1,4,4,1,0,Culture
+Sydney,27,283,1,1,5,3,1,1,Relaxation
+London,25,68,3,0,0,4,1,0,Budget
+Dubai,16,145,5,0,6,9,0,0,Culture
+Kyoto,29,380,5,1,7,10,1,1,Culture
+Kyoto,17,420,5,0,2,8,1,1,Culture
+Bali,29,373,0,0,1,10,0,1,Luxury
+Athens,12,256,2,0,1,2,0,1,Luxury
+Rome,28,278,5,0,9,10,1,1,Culture
+Barcelona,27,53,0,1,0,0,1,0,Relaxation
+Sydney,21,53,8,1,2,1,0,0,Culture
+Sydney,16,168,3,1,5,4,1,0,Relaxation
+Tokyo,23,252,7,0,3,4,0,1,Culture
+Barcelona,32,61,1,1,6,6,1,0,Relaxation
+Paris,32,49,2,0,7,6,1,0,Budget
+Cape Town,15,315,0,0,3,9,1,1,Luxury
+Dubai,13,83,4,0,2,5,0,0,Family
+Rome,30,118,6,0,4,2,0,0,Culture
+Cape Town,24,391,8,1,6,2,0,1,Culture
+Sydney,23,72,1,1,3,1,1,0,Relaxation
+Cape Town,31,349,6,1,0,10,1,1,Culture
+Athens,26,296,3,1,8,6,1,1,Relaxation
+Bali,33,344,6,0,9,4,0,1,Culture
+New York,14,87,4,0,6,10,0,0,Family
+New York,24,207,5,0,1,0,1,0,Culture
+Kyoto,23,183,1,0,1,2,1,0,Family
+Kyoto,29,329,8,1,1,0,0,1,Culture
+London,29,92,5,1,0,4,1,0,Culture
+Bangkok,14,416,8,0,9,8,0,1,Culture
+Barcelona,24,131,2,1,4,4,1,0,Relaxation
+Bali,14,130,6,1,6,4,1,0,Culture
+Athens,14,229,4,0,10,7,0,0,Adventure
+Kyoto,15,114,4,0,6,5,1,0,Family
+Athens,22,270,5,1,10,9,0,1,Culture
+Dubai,22,353,3,1,5,2,1,1,Relaxation
+London,21,400,7,0,5,6,1,1,Culture
+Singapore,24,231,1,0,9,8,0,0,Adventure
+Barcelona,29,58,7,0,7,4,0,0,Culture
+Singapore,25,389,7,0,10,4,0,1,Culture
+Dubai,33,123,6,1,1,7,1,0,Culture
+Cape Town,24,318,8,1,8,0,1,1,Culture
+New York,29,349,1,0,3,10,1,1,Luxury
+Bali,32,358,0,1,5,6,0,1,Relaxation
+Paris,15,177,3,0,7,5,1,0,Family
+Kyoto,33,346,8,0,5,0,1,1,Culture
+Tokyo,21,257,1,0,2,5,1,1,Luxury
+London,26,150,8,1,5,7,0,0,Culture
+Kyoto,34,276,5,0,4,0,0,1,Culture
+Paris,22,376,1,0,3,8,0,1,Luxury
+Sydney,17,214,8,1,7,3,1,0,Culture
+Barcelona,17,140,6,1,0,9,0,0,Culture
+Kyoto,30,264,6,0,3,3,1,1,Culture
+Athens,34,77,1,0,5,5,0,0,Budget
+Kyoto,15,179,7,1,9,6,1,0,Culture
+Cape Town,15,223,5,1,9,2,1,0,Culture
+Cancun,31,347,1,0,5,1,0,1,Luxury
+Dubai,15,138,5,0,8,6,1,0,Culture
+Cape Town,16,339,6,1,2,7,0,1,Culture
+Sydney,17,295,4,0,2,5,1,1,Luxury
+Cape Town,13,228,0,1,2,3,1,0,Relaxation
+Sydney,28,379,7,1,10,7,1,1,Culture
+New York,26,295,2,0,9,0,0,1,Adventure
+Dubai,13,185,3,1,2,7,1,0,Relaxation
+Sydney,28,102,1,1,8,5,0,0,Relaxation
+Athens,26,324,3,1,1,10,0,1,Relaxation
+Dubai,13,275,4,1,1,7,0,1,Relaxation
+Athens,19,152,5,1,2,9,0,0,Culture
+Athens,18,150,0,1,8,4,0,0,Relaxation
+London,34,194,4,1,8,10,0,0,Relaxation
+Bali,25,75,4,0,2,3,0,0,Budget
+New York,22,171,6,1,2,9,1,0,Culture
+Barcelona,25,237,7,0,10,1,1,0,Culture
+Sydney,20,400,5,1,7,5,0,1,Culture
+Singapore,14,419,7,1,1,8,1,1,Culture
+Rome,25,153,7,1,5,4,1,0,Culture
+Sydney,30,111,7,1,10,0,0,0,Culture
+Tokyo,32,280,0,0,2,7,1,1,Luxury
+Paris,25,148,2,1,2,4,0,0,Relaxation
+Barcelona,23,173,1,1,10,10,0,0,Relaxation
+Paris,24,365,4,0,6,10,0,1,Luxury
+New York,15,45,3,1,1,2,0,0,Relaxation
+Sydney,33,272,0,0,5,1,1,1,Luxury
+New York,16,289,1,0,6,1,0,1,Luxury
+Tokyo,22,233,4,0,6,2,0,0,Family
+Tokyo,28,333,0,0,7,5,0,1,Luxury
+Barcelona,16,255,7,0,1,1,0,1,Culture
+Athens,15,346,6,1,6,5,0,1,Culture
+Rome,20,375,1,0,8,9,1,1,Adventure
+Athens,34,58,4,0,8,9,0,0,Adventure
+New York,24,196,0,0,7,6,0,0,Family
+Rome,27,371,1,0,5,5,0,1,Luxury
+Bangkok,30,260,5,0,7,1,0,1,Culture
+Cape Town,14,52,4,0,0,0,1,0,Budget
+Sydney,21,366,8,1,6,6,0,1,Culture
+Barcelona,29,320,2,1,1,4,0,1,Relaxation
+Sydney,18,124,8,1,6,9,0,0,Culture
+Dubai,34,268,3,0,3,1,1,1,Luxury
+Tokyo,26,358,0,1,10,10,0,1,Relaxation
+Tokyo,12,407,2,0,2,7,1,1,Luxury
+Sydney,28,414,4,0,5,2,1,1,Luxury
+New York,15,60,5,1,4,8,0,0,Culture
+Dubai,34,340,1,1,7,8,1,1,Relaxation
+Paris,27,335,2,1,2,4,0,1,Relaxation
+Cancun,30,390,1,0,8,0,0,1,Adventure
+Singapore,12,170,0,1,5,6,0,0,Relaxation
+Bali,13,328,6,0,5,3,1,1,Culture
+Cancun,22,183,1,1,1,8,0,0,Relaxation
+Bali,19,309,0,1,1,7,1,1,Relaxation
+Athens,21,212,1,1,0,5,0,0,Relaxation
+Dubai,30,200,3,1,5,9,1,0,Relaxation
+Athens,18,420,8,0,2,0,1,1,Culture
+Paris,19,322,5,0,5,0,1,1,Culture
+Singapore,21,98,3,0,6,7,0,0,Family
+Bali,34,188,1,0,3,8,1,0,Family
+New York,23,279,1,0,8,2,1,1,Adventure
+Tokyo,30,335,0,1,10,2,0,1,Relaxation
+Dubai,20,206,6,1,5,7,1,0,Culture
+Rome,14,148,2,0,2,1,0,0,Family
+Kyoto,26,205,6,0,8,5,0,0,Culture
+Kyoto,21,282,4,0,1,2,1,1,Luxury
+Singapore,34,401,0,0,5,2,0,1,Luxury
+New York,19,227,6,0,10,4,1,0,Culture
+Singapore,17,60,6,1,8,8,0,0,Culture
+Tokyo,26,97,2,0,0,0,0,0,Family
+Bali,18,250,5,0,9,9,1,0,Culture
+Cancun,14,56,1,0,10,7,0,0,Adventure
+Tokyo,22,107,0,1,0,2,1,0,Relaxation
+Singapore,24,299,0,1,10,6,0,1,Relaxation
+London,18,140,4,1,7,2,0,0,Relaxation
+Cape Town,31,360,3,1,7,6,1,1,Relaxation
+Paris,14,188,6,0,6,3,0,0,Culture
+Barcelona,29,54,6,1,7,8,1,0,Culture
+London,30,302,5,1,4,2,0,1,Culture
+London,31,157,0,1,0,7,1,0,Relaxation
+Athens,30,164,2,0,3,10,0,0,Family
+Dubai,29,73,3,1,5,2,0,0,Relaxation
+Rome,30,207,5,0,5,9,0,0,Culture
+Cape Town,18,297,8,1,2,7,0,1,Culture
+Tokyo,13,164,3,0,8,7,0,0,Adventure
+London,31,148,2,1,2,5,0,0,Relaxation
+Paris,16,345,2,0,8,5,0,1,Adventure
+London,34,384,6,0,5,4,1,1,Culture
+Bali,17,419,6,1,10,5,0,1,Culture
+New York,29,400,5,0,10,9,0,1,Culture
+Bangkok,21,420,4,0,2,0,1,1,Luxury
+Singapore,30,61,2,1,9,3,0,0,Relaxation
+Cancun,27,117,5,0,3,5,1,0,Culture
+Bali,32,90,5,1,0,4,0,0,Culture
+Rome,34,79,5,1,1,0,0,0,Culture
+Bangkok,26,420,6,0,6,7,1,1,Culture
+London,29,237,1,1,9,10,0,0,Relaxation
+Bali,26,82,0,1,0,5,1,0,Relaxation
+Tokyo,14,220,2,1,2,1,0,0,Relaxation
+London,31,359,7,0,6,10,0,1,Culture
+Cape Town,25,125,0,0,5,3,0,0,Family
+Bangkok,34,328,8,1,10,4,1,1,Culture
+Rome,15,70,6,1,2,0,1,0,Culture
+Paris,25,89,4,1,3,1,0,0,Relaxation
+Rome,17,371,4,0,7,1,1,1,Luxury
+Athens,24,286,7,1,1,10,1,1,Culture
+Bali,23,240,5,0,7,0,1,0,Culture
+Kyoto,26,179,3,1,9,0,0,0,Relaxation
+Athens,34,386,1,0,10,5,1,1,Adventure
+Athens,30,161,8,0,6,8,1,0,Culture
+Sydney,33,288,3,1,4,1,1,1,Relaxation
+Cancun,34,62,8,0,1,7,0,0,Culture
+Bali,18,143,2,0,6,1,1,0,Family
+Rome,32,120,4,1,1,1,1,0,Relaxation
+Sydney,24,327,5,1,8,7,0,1,Culture
+Athens,34,364,8,1,1,6,0,1,Culture
+Bali,30,346,1,0,9,1,1,1,Adventure
+Singapore,29,221,6,1,6,10,1,0,Culture
+Cape Town,31,287,0,0,4,6,0,1,Luxury
+Cape Town,31,393,6,0,6,5,0,1,Culture
+Paris,27,182,5,0,5,4,1,0,Culture
+Dubai,27,401,1,0,2,4,1,1,Luxury
+Athens,22,182,6,0,3,7,0,0,Culture
+Cancun,25,293,8,1,0,8,0,1,Culture
+Tokyo,21,408,8,1,2,8,0,1,Culture
+Bali,18,147,0,0,0,7,0,0,Family
+Cancun,23,405,3,1,5,7,1,1,Relaxation
+Barcelona,15,393,0,0,5,7,1,1,Luxury
+Bali,27,345,8,1,5,2,1,1,Culture
+New York,34,91,4,0,6,0,0,0,Family
+Singapore,30,154,3,0,10,3,1,0,Adventure
+Barcelona,25,307,0,0,7,2,0,1,Luxury
+Cape Town,12,159,4,1,10,4,1,0,Relaxation
+Cancun,24,223,7,1,3,7,1,0,Culture
+Barcelona,28,364,6,0,0,8,1,1,Culture
+Sydney,32,349,4,1,10,1,1,1,Relaxation
+Tokyo,22,186,5,1,4,10,1,0,Culture
+Rome,16,309,3,0,9,6,1,1,Adventure
+Barcelona,16,414,0,1,4,4,1,1,Relaxation
+Bangkok,24,63,3,1,3,10,1,0,Relaxation
+Cancun,33,228,8,1,2,10,0,0,Culture
+Dubai,15,286,2,1,8,2,1,1,Relaxation
+Barcelona,14,158,5,0,4,6,1,0,Culture
+London,20,344,4,1,1,7,0,1,Relaxation
+Singapore,32,343,1,1,3,8,0,1,Relaxation
+Singapore,33,240,8,1,6,0,0,0,Culture
+Bali,18,220,6,1,2,5,0,0,Culture
+Athens,14,294,5,0,5,10,0,1,Culture
+Paris,26,185,3,0,9,2,1,0,Adventure
+Athens,14,111,6,1,6,6,1,0,Culture
+Bangkok,12,64,8,0,5,0,1,0,Culture
+Athens,28,142,0,0,10,3,0,0,Adventure
+New York,23,204,2,0,6,8,1,0,Family
+Bali,14,68,4,1,7,8,1,0,Relaxation
+Bangkok,33,113,5,1,5,3,0,0,Culture
+Cancun,24,54,3,0,2,3,0,0,Budget
+Cape Town,28,131,1,1,10,0,1,0,Relaxation
+Cancun,32,175,8,0,9,0,0,0,Culture
+Barcelona,12,69,1,1,7,6,0,0,Relaxation
+Sydney,20,287,2,0,10,10,0,1,Adventure
+Dubai,25,383,1,1,9,9,0,1,Relaxation
+Bangkok,15,306,1,1,1,1,1,1,Relaxation
+Rome,31,147,4,0,5,6,1,0,Family
+Bali,13,325,7,0,7,5,0,1,Culture
+Paris,12,388,1,0,9,10,1,1,Adventure
+Bali,14,306,1,0,4,10,0,1,Luxury
+Kyoto,21,180,7,0,1,2,0,0,Culture
+Singapore,21,229,5,1,1,1,0,0,Culture
+Paris,16,384,2,1,5,7,1,1,Relaxation
+Cancun,14,235,5,0,1,6,1,0,Culture
+Kyoto,20,242,7,1,10,2,0,0,Culture
+Bali,34,416,0,0,1,6,1,1,Luxury
+Athens,30,392,7,0,9,6,1,1,Culture
+Cape Town,12,395,2,1,7,1,1,1,Relaxation
+Kyoto,13,77,4,1,0,10,0,0,Relaxation
+Barcelona,22,310,8,0,6,10,0,1,Culture
+Kyoto,23,384,6,0,8,9,0,1,Culture
+Paris,32,125,8,1,7,2,0,0,Culture
+Athens,27,209,3,1,4,0,0,0,Relaxation
+Sydney,32,238,6,0,1,7,1,0,Culture
+Athens,30,274,1,1,7,5,0,1,Relaxation
+Kyoto,32,54,1,1,6,0,0,0,Relaxation
+Singapore,14,354,4,0,10,10,1,1,Adventure
+London,23,72,3,1,5,8,1,0,Relaxation
+New York,33,231,7,0,1,10,0,0,Culture
+Paris,22,226,4,1,1,0,0,0,Relaxation
+Kyoto,16,412,6,0,4,9,0,1,Culture
+Rome,15,246,3,1,3,5,0,0,Relaxation
+Athens,25,68,1,1,7,10,0,0,Relaxation
+Kyoto,12,316,0,1,9,7,0,1,Relaxation
+New York,30,133,2,0,6,10,1,0,Family
+Sydney,24,259,3,1,6,5,1,1,Relaxation
+Kyoto,16,115,6,1,8,5,0,0,Culture
+Rome,18,364,4,1,10,2,0,1,Relaxation
+Sydney,29,400,5,0,5,8,1,1,Culture
+Cape Town,30,386,6,1,6,0,0,1,Culture
+Paris,24,119,0,0,3,4,0,0,Family
+Dubai,33,173,2,0,4,3,0,0,Family
+London,26,97,8,0,10,8,1,0,Culture
+Rome,28,401,4,0,6,6,1,1,Luxury
+Athens,33,205,8,0,0,4,0,0,Culture
+Cape Town,26,160,5,0,3,4,1,0,Culture
+Bali,33,83,2,0,8,1,1,0,Adventure
+Paris,25,187,8,1,2,2,1,0,Culture
+Paris,22,283,2,0,2,5,0,1,Luxury
+Athens,32,360,4,1,9,8,1,1,Relaxation
+Tokyo,34,207,8,0,2,8,0,0,Culture
+Athens,28,126,6,1,1,5,0,0,Culture
+Cancun,18,384,5,1,5,4,0,1,Culture
+Athens,31,316,7,0,1,10,1,1,Culture
+Kyoto,19,373,3,0,10,5,1,1,Adventure
+Cancun,15,242,4,1,0,8,1,0,Relaxation
+Sydney,28,273,7,0,4,10,0,1,Culture
+London,28,87,1,0,8,8,0,0,Adventure
+Barcelona,14,152,3,1,1,3,1,0,Relaxation
+Barcelona,14,396,2,0,7,5,0,1,Luxury
+Tokyo,14,72,2,1,8,1,0,0,Relaxation
+Cancun,20,253,6,1,10,6,1,1,Culture
+London,12,244,1,0,10,9,0,0,Adventure
+Athens,30,68,1,1,8,1,1,0,Relaxation
+Athens,33,199,1,1,7,6,1,0,Relaxation
+Singapore,33,60,7,0,8,3,0,0,Culture
+New York,24,324,4,0,4,10,1,1,Luxury
+Paris,29,329,2,0,0,0,1,1,Luxury
+Sydney,29,88,4,0,5,3,1,0,Family
+Cancun,32,307,2,0,2,3,1,1,Luxury
+Rome,15,137,0,1,10,8,0,0,Relaxation
+Dubai,33,79,4,0,3,9,1,0,Budget
+London,23,110,3,0,4,9,0,0,Family
+Cancun,18,207,7,1,5,9,1,0,Culture
+New York,30,123,5,1,6,2,0,0,Culture
+London,19,158,6,1,5,2,1,0,Culture
+Cancun,27,281,7,1,4,7,0,1,Culture
+Bali,32,355,1,1,2,8,0,1,Relaxation
+Dubai,32,84,1,0,8,10,0,0,Adventure
+Singapore,30,341,6,0,0,8,1,1,Culture
+Sydney,29,286,2,1,6,3,1,1,Relaxation
+Bali,26,301,8,0,6,5,0,1,Culture
+Barcelona,19,359,2,0,7,2,0,1,Luxury
+Cape Town,30,382,2,1,5,0,0,1,Relaxation
+Athens,27,163,1,1,5,3,0,0,Relaxation
+Barcelona,18,310,5,1,7,7,0,1,Culture
+Paris,32,210,1,1,4,9,0,0,Relaxation
+Bangkok,32,238,5,0,8,4,1,0,Culture
+Cancun,19,309,6,1,5,7,1,1,Culture
+Cancun,31,48,8,0,7,2,0,0,Culture
+Tokyo,28,374,4,0,2,2,0,1,Luxury
+London,31,412,1,0,6,5,0,1,Luxury
+Kyoto,33,290,7,0,9,2,1,1,Culture
+Paris,19,67,2,0,2,10,0,0,Budget
+Cancun,30,120,0,0,4,2,1,0,Family
+Cape Town,30,371,0,1,1,3,1,1,Relaxation
+Cape Town,27,291,2,0,6,9,0,1,Luxury
+Athens,30,138,8,1,2,10,1,0,Culture
+Cancun,26,350,1,0,6,6,0,1,Luxury
+Tokyo,12,148,8,1,2,9,0,0,Culture
+Bali,27,359,0,0,1,7,0,1,Luxury
+Cancun,31,321,0,1,8,6,1,1,Relaxation
+Singapore,13,402,8,1,3,7,1,1,Culture
+London,30,401,1,1,2,4,1,1,Relaxation
+Athens,19,87,4,1,4,3,0,0,Relaxation
+New York,12,340,8,0,8,0,1,1,Culture
+Barcelona,18,397,5,1,5,1,0,1,Culture
+Bangkok,32,344,4,1,8,6,1,1,Relaxation
+Cape Town,20,393,6,0,6,8,1,1,Culture
+Bali,23,331,8,1,4,4,1,1,Culture
+Athens,34,248,2,0,3,7,0,0,Family
+Tokyo,18,305,6,1,8,9,0,1,Culture
+Bali,24,370,0,0,2,7,1,1,Luxury
+Tokyo,14,179,3,1,1,9,0,0,Relaxation
+New York,24,250,8,1,9,0,0,0,Culture
+Barcelona,27,269,0,0,10,8,1,1,Adventure
+Rome,13,351,8,0,9,2,0,1,Culture
+London,19,380,0,0,1,4,1,1,Luxury
+London,33,247,6,0,8,0,0,0,Culture
+Cancun,14,326,4,1,5,4,0,1,Relaxation
+Cape Town,18,277,6,0,4,2,1,1,Culture
+Sydney,15,331,1,1,5,1,1,1,Relaxation
+Cancun,29,339,4,1,6,9,1,1,Relaxation
+Athens,19,218,7,1,9,0,1,0,Culture
+Tokyo,20,79,6,0,10,3,1,0,Culture
+Bangkok,23,309,8,0,4,3,1,1,Culture
+Tokyo,24,389,5,0,8,2,1,1,Culture
+London,23,156,4,0,10,3,1,0,Adventure
+New York,18,165,3,1,3,3,0,0,Relaxation
+Singapore,19,361,5,0,1,1,0,1,Culture
+Barcelona,33,297,0,0,7,5,1,1,Luxury
+Kyoto,30,185,7,0,8,4,1,0,Culture
+Rome,30,110,0,1,7,8,0,0,Relaxation
+Sydney,23,246,2,1,1,8,1,0,Relaxation
+London,34,49,0,0,6,9,0,0,Budget
+London,23,358,4,0,8,4,0,1,Adventure
+Dubai,27,358,5,1,2,7,1,1,Culture
+Rome,25,403,5,1,6,4,1,1,Culture
+Bali,30,112,3,0,4,3,1,0,Family
+Singapore,24,145,2,0,7,0,0,0,Family
+Bangkok,27,113,8,1,7,4,1,0,Culture
+Sydney,30,69,6,0,2,0,0,0,Culture
+Singapore,20,288,1,1,5,4,1,1,Relaxation
+London,29,330,4,1,0,6,0,1,Relaxation
+London,33,355,3,0,4,5,1,1,Luxury
+Barcelona,28,294,7,0,6,9,1,1,Culture
+Kyoto,32,119,2,1,6,10,1,0,Relaxation
+Singapore,14,85,2,1,3,5,1,0,Relaxation
+Barcelona,21,408,4,1,4,7,1,1,Relaxation
+New York,30,311,7,1,2,2,0,1,Culture
+Bali,19,383,4,0,3,2,1,1,Luxury
+Tokyo,15,77,7,0,0,6,0,0,Culture
+Tokyo,20,361,2,0,10,6,1,1,Adventure
+Rome,19,190,7,0,2,8,0,0,Culture
+Paris,13,384,5,1,7,7,1,1,Culture
+Sydney,26,114,8,0,9,9,1,0,Culture
+Barcelona,32,333,6,1,5,7,0,1,Culture
+Athens,14,271,4,1,6,4,0,1,Relaxation
+Dubai,12,45,8,0,5,4,1,0,Culture
+Sydney,12,397,7,1,4,0,1,1,Culture
+Athens,21,350,3,0,8,5,0,1,Adventure
+Bangkok,29,268,6,0,2,10,1,1,Culture
+Singapore,24,157,4,0,6,10,0,0,Family
+Sydney,31,400,4,1,10,8,1,1,Relaxation
+Bangkok,18,80,2,0,4,1,1,0,Family
+Cape Town,26,184,7,0,5,0,0,0,Culture
+Paris,29,56,2,0,4,4,0,0,Budget
+New York,26,417,0,0,1,2,0,1,Luxury
+Kyoto,18,220,6,1,7,5,1,0,Culture
+New York,13,214,1,0,0,4,1,0,Family
+Tokyo,29,285,2,0,4,6,0,1,Luxury
+Tokyo,34,172,6,1,3,0,0,0,Culture
+Kyoto,15,311,3,1,6,10,1,1,Relaxation
+Cancun,22,126,0,0,4,7,1,0,Family
+Rome,23,71,3,0,3,10,1,0,Budget
+London,12,130,4,0,6,3,0,0,Family
+Paris,30,398,7,0,5,1,0,1,Culture
+Bali,27,91,5,0,0,5,0,0,Culture
+New York,29,99,2,1,3,5,1,0,Relaxation
+Athens,26,420,3,0,6,5,0,1,Luxury
+Dubai,13,293,7,1,8,7,0,1,Culture
+Cape Town,17,323,5,1,7,4,0,1,Culture
+Tokyo,28,124,7,1,4,8,1,0,Culture
+Kyoto,12,371,8,1,2,0,1,1,Culture
+Athens,31,167,5,0,10,8,1,0,Culture
+Rome,28,394,7,0,9,4,1,1,Culture
+Bangkok,32,209,1,0,8,10,0,0,Adventure
+Paris,16,136,0,0,1,7,0,0,Family
+Tokyo,13,337,6,1,8,9,1,1,Culture
+Paris,23,158,1,0,3,10,1,0,Family
+Cancun,14,284,0,1,8,6,1,1,Relaxation
+Athens,34,74,4,0,1,4,0,0,Budget
+Rome,28,94,1,0,8,6,0,0,Adventure
+Rome,28,381,3,0,8,8,1,1,Adventure
+New York,15,371,5,1,10,6,0,1,Culture
+Bali,17,326,6,1,10,2,1,1,Culture
+Cancun,23,206,8,1,5,6,1,0,Culture
+Singapore,22,356,3,0,6,8,1,1,Luxury
+London,26,274,6,0,0,4,0,1,Culture
+Sydney,16,199,0,1,3,3,1,0,Relaxation
+Paris,34,186,8,0,1,0,1,0,Culture
+London,16,115,4,1,9,3,0,0,Relaxation
+Dubai,21,92,6,0,1,5,1,0,Culture
+Bali,27,398,1,1,0,9,1,1,Relaxation
+Tokyo,13,216,5,1,6,1,0,0,Culture
+New York,32,353,0,1,0,4,0,1,Relaxation
+London,29,334,2,1,8,3,0,1,Relaxation
+Paris,33,419,6,1,9,9,0,1,Culture
+Rome,25,193,6,0,2,5,0,0,Culture
+Kyoto,30,70,8,1,4,1,1,0,Culture
+Sydney,25,402,2,0,7,8,0,1,Luxury
+Kyoto,24,378,3,0,3,1,1,1,Luxury
+Athens,25,210,1,0,10,6,1,0,Adventure
+London,23,142,5,1,9,10,0,0,Culture
+Athens,21,131,5,1,9,2,1,0,Culture
+Paris,19,147,5,0,1,1,0,0,Culture
+Rome,31,120,4,0,5,1,1,0,Family
+Kyoto,27,56,5,0,8,3,0,0,Culture
+Sydney,28,177,8,1,9,2,0,0,Culture
+Bangkok,30,384,8,0,4,2,0,1,Culture
+Dubai,18,401,4,0,7,10,0,1,Luxury
+Tokyo,24,383,4,1,1,0,1,1,Relaxation
+Singapore,32,242,3,1,8,1,1,0,Relaxation
+Kyoto,31,317,1,0,3,8,1,1,Luxury
+Sydney,34,56,0,0,8,4,1,0,Adventure
+Kyoto,24,125,0,1,10,5,1,0,Relaxation
+Barcelona,21,165,8,1,0,10,1,0,Culture
+Cancun,24,60,8,1,3,2,1,0,Culture
+Cancun,24,381,2,0,6,8,0,1,Luxury
+Bangkok,19,338,2,1,4,9,1,1,Relaxation
+Kyoto,29,112,3,0,9,8,0,0,Adventure
+Singapore,16,203,8,0,6,2,0,0,Culture
+London,14,330,8,0,2,5,0,1,Culture
+New York,12,208,6,1,4,7,1,0,Culture
+Bali,18,99,2,0,0,9,1,0,Family
+Cape Town,30,358,3,0,3,10,0,1,Luxury
+London,14,397,7,0,8,9,1,1,Culture
+New York,32,236,2,1,7,7,0,0,Relaxation
+Bali,18,160,0,1,0,4,1,0,Relaxation
+Rome,33,148,3,0,2,7,1,0,Family
+New York,22,279,3,1,6,0,1,1,Relaxation
+New York,22,246,8,0,8,1,1,0,Culture
+Kyoto,13,170,8,1,0,8,1,0,Culture
+Sydney,32,70,3,1,7,6,1,0,Relaxation
+Athens,21,281,2,1,4,9,0,1,Relaxation
+New York,28,117,7,1,1,8,0,0,Culture
+Bali,30,401,8,0,6,6,1,1,Culture
+Kyoto,12,136,7,0,7,1,1,0,Culture
+London,34,377,2,0,1,1,1,1,Luxury
+Barcelona,23,88,8,1,8,9,0,0,Culture
+Bangkok,29,239,0,0,5,9,0,0,Family
+Bali,16,136,0,1,4,4,1,0,Relaxation
+Dubai,32,137,1,0,3,0,1,0,Family
+Paris,26,299,7,0,9,7,0,1,Culture
+Rome,30,382,7,1,6,7,0,1,Culture
+Cape Town,31,48,3,1,9,10,0,0,Relaxation
+Paris,17,120,0,1,0,2,0,0,Relaxation
+Barcelona,30,353,4,1,1,0,0,1,Relaxation
+Bangkok,17,127,4,0,7,9,1,0,Family
+Cancun,13,92,4,1,5,6,0,0,Relaxation
+Athens,25,326,1,1,7,2,0,1,Relaxation
+New York,20,213,8,1,8,3,0,0,Culture
+Cape Town,13,100,8,0,7,9,1,0,Culture
+Bangkok,31,207,4,1,2,9,1,0,Relaxation
+Sydney,32,299,7,0,9,3,1,1,Culture
+Rome,12,105,0,1,10,1,0,0,Relaxation
+Athens,31,257,6,0,5,5,0,1,Culture
+Paris,32,148,4,1,1,4,1,0,Relaxation
+Sydney,29,210,0,0,10,5,1,0,Adventure
+Bangkok,30,360,0,0,3,5,1,1,Luxury
+Cancun,33,290,7,0,10,2,1,1,Culture
+Bali,32,280,8,1,7,6,0,1,Culture
+Singapore,28,198,5,0,3,9,1,0,Culture
+Athens,23,78,2,1,0,5,1,0,Relaxation
+Barcelona,29,129,6,0,9,1,1,0,Culture
+New York,22,408,0,1,6,1,1,1,Relaxation
+Cancun,19,235,7,1,3,8,1,0,Culture
+Bali,15,236,0,0,1,7,0,0,Family
+Athens,27,301,2,0,5,7,1,1,Luxury
+Athens,22,118,1,0,3,0,1,0,Family
+Bangkok,34,312,1,0,4,0,0,1,Luxury
+London,26,68,1,1,0,9,1,0,Relaxation
+Barcelona,18,209,3,0,4,4,1,0,Family
+Athens,26,388,1,1,2,2,1,1,Relaxation
+Tokyo,12,363,8,0,3,8,1,1,Culture
+Sydney,22,183,2,1,9,3,0,0,Relaxation
+Tokyo,21,358,5,1,0,2,0,1,Culture
+Kyoto,33,70,1,1,0,1,1,0,Relaxation
+Bangkok,17,405,7,1,4,5,0,1,Culture
+New York,33,318,1,1,9,2,0,1,Relaxation
+Singapore,34,284,1,1,4,10,1,1,Relaxation
+Kyoto,19,159,2,1,5,6,0,0,Relaxation
+New York,33,214,5,1,7,0,0,0,Culture
+Kyoto,15,224,7,1,2,4,1,0,Culture
+Cape Town,30,110,8,0,6,1,1,0,Culture
+Sydney,32,81,4,1,6,9,1,0,Relaxation
+Rome,31,169,8,0,7,6,0,0,Culture
+London,18,400,6,1,9,5,0,1,Culture
+Bali,33,387,1,1,1,9,1,1,Relaxation
+London,29,94,7,0,4,6,0,0,Culture
+Cape Town,15,395,6,1,7,10,0,1,Culture
+Tokyo,18,116,0,0,10,2,1,0,Adventure
+Sydney,21,244,7,0,3,10,1,0,Culture
+Dubai,30,392,4,1,5,1,0,1,Relaxation
+Cape Town,28,251,2,1,0,5,0,1,Relaxation
+Paris,34,331,5,0,4,0,0,1,Culture
+Bangkok,34,347,6,1,6,6,1,1,Culture
+Bangkok,29,153,2,1,2,3,1,0,Relaxation
+Singapore,23,258,2,1,10,2,0,1,Relaxation
+Paris,14,376,0,0,7,10,1,1,Luxury
+Bali,14,115,6,1,9,6,0,0,Culture
+Kyoto,28,262,8,1,6,5,0,1,Culture
+Bali,25,354,0,1,3,8,1,1,Relaxation
+Bangkok,29,340,5,0,0,9,1,1,Culture
+New York,23,102,7,0,2,8,1,0,Culture
+Kyoto,28,85,8,0,3,7,0,0,Culture
+Barcelona,32,321,4,0,5,8,0,1,Luxury
+Kyoto,26,307,7,1,6,5,1,1,Culture
+Dubai,17,63,4,1,0,10,1,0,Relaxation
+Cape Town,17,338,0,1,9,0,1,1,Relaxation
+Kyoto,14,109,8,0,4,4,0,0,Culture
+Cape Town,20,185,4,0,1,9,0,0,Family
+Cancun,30,122,7,1,2,4,0,0,Culture
+Kyoto,17,315,0,1,1,2,0,1,Relaxation
+Singapore,27,256,6,0,10,7,0,1,Culture
+Rome,30,420,5,0,10,4,0,1,Culture
+Paris,17,282,6,1,4,7,0,1,Culture
+Bangkok,33,406,6,1,4,2,1,1,Culture
+Paris,21,274,6,1,8,10,0,1,Culture
+Tokyo,29,371,5,1,9,10,1,1,Culture
+London,20,181,1,1,10,9,1,0,Relaxation
+Kyoto,33,168,3,1,10,2,1,0,Relaxation
+Sydney,12,389,0,0,0,6,0,1,Luxury
+Sydney,15,395,7,1,3,4,1,1,Culture
+Rome,13,57,1,0,9,10,0,0,Adventure
+Cape Town,32,107,1,0,9,2,1,0,Adventure
+Barcelona,32,334,2,0,2,4,1,1,Luxury
+Kyoto,33,83,7,1,6,10,1,0,Culture
+Dubai,17,82,4,0,6,6,1,0,Family
+Paris,20,180,2,1,1,7,0,0,Relaxation
+Cape Town,24,136,7,0,2,8,1,0,Culture
+Rome,31,374,1,1,4,1,0,1,Relaxation
+Tokyo,14,337,4,1,0,7,0,1,Relaxation
+Barcelona,32,45,0,1,4,2,1,0,Relaxation
+Cancun,24,339,0,1,7,6,1,1,Relaxation
+Singapore,14,321,3,0,6,7,0,1,Luxury
+Cape Town,29,228,5,1,6,0,0,0,Culture
+London,29,219,1,1,4,10,0,0,Relaxation
+Bali,29,65,6,0,4,6,0,0,Culture
+Barcelona,34,228,7,0,10,7,0,0,Culture
+Bali,13,143,0,0,7,6,0,0,Family
+Athens,29,374,4,1,8,7,0,1,Relaxation
+Paris,22,73,5,0,6,1,0,0,Culture
+Athens,32,386,8,1,10,8,0,1,Culture
+New York,30,164,1,0,2,7,0,0,Family
+Kyoto,31,68,3,0,0,2,0,0,Budget
+Cancun,21,94,7,0,9,1,0,0,Culture
+Tokyo,27,349,3,0,3,6,1,1,Luxury
+Athens,33,250,5,0,10,9,0,0,Culture
+London,18,68,2,1,1,1,1,0,Relaxation
+Bali,25,131,5,0,7,3,0,0,Culture
+Bali,15,368,6,0,0,7,0,1,Culture
+Paris,12,136,1,1,6,7,0,0,Relaxation
+Rome,16,372,4,1,6,3,0,1,Relaxation
+Cape Town,34,64,2,1,9,1,1,0,Relaxation
+London,25,47,8,0,3,1,0,0,Culture
+Cape Town,23,321,8,0,7,10,0,1,Culture
+Dubai,13,144,1,0,10,7,1,0,Adventure
+Bali,17,388,0,0,10,5,1,1,Adventure
+Rome,25,173,5,1,0,1,0,0,Culture
+Cancun,29,135,2,0,7,8,0,0,Family
+Tokyo,19,414,7,1,6,3,1,1,Culture
+Rome,15,211,3,0,3,6,0,0,Family
+Bangkok,19,82,7,1,0,6,0,0,Culture
+Rome,31,277,2,1,5,2,1,1,Relaxation
+New York,18,368,5,1,3,5,0,1,Culture
+Paris,34,336,0,1,2,1,1,1,Relaxation
+Kyoto,25,132,5,0,4,9,0,0,Culture
+Athens,32,358,2,0,1,6,1,1,Luxury
+Singapore,18,347,7,1,4,0,1,1,Culture
+New York,19,171,5,1,9,3,0,0,Culture
+Cancun,30,47,6,0,0,7,0,0,Culture
+Bangkok,28,246,7,0,7,7,0,0,Culture
+Tokyo,29,51,6,0,2,5,1,0,Culture
+Rome,32,91,0,1,10,4,0,0,Relaxation
+New York,26,337,0,1,7,2,1,1,Relaxation
+Bali,23,365,7,0,10,1,1,1,Culture
+Cancun,34,215,8,0,4,6,1,0,Culture
+New York,31,322,3,0,9,5,0,1,Adventure
+Sydney,33,231,0,0,6,5,1,0,Family
+Cape Town,13,232,5,0,10,8,0,0,Culture
+Sydney,34,149,2,1,3,8,0,0,Relaxation
+Barcelona,27,342,3,0,5,5,1,1,Luxury
+Sydney,33,261,4,0,1,5,1,1,Luxury
+Kyoto,27,301,8,0,7,8,1,1,Culture
+Kyoto,31,233,1,0,7,1,0,0,Family
+Bangkok,17,192,1,0,2,4,0,0,Family
+New York,16,299,2,0,8,10,0,1,Adventure
+Dubai,25,394,8,0,7,5,1,1,Culture
+Kyoto,32,55,4,0,1,0,0,0,Budget
+Singapore,28,375,5,1,9,5,1,1,Culture
+Kyoto,30,385,8,1,7,4,0,1,Culture
+Cancun,21,132,4,0,7,5,1,0,Family
+Athens,13,120,5,1,7,2,0,0,Culture
+New York,29,191,2,0,10,2,0,0,Adventure
+Rome,15,66,5,0,7,4,1,0,Culture
+Bali,18,332,0,1,5,2,1,1,Relaxation
+Kyoto,29,128,8,1,1,0,1,0,Culture
+Cancun,27,119,7,1,2,0,1,0,Culture
+Barcelona,34,196,7,1,9,10,0,0,Culture
+Athens,30,418,7,1,1,7,0,1,Culture
+Bali,33,327,1,1,0,6,0,1,Relaxation
+Kyoto,23,92,5,0,9,10,0,0,Culture
+Cape Town,28,158,4,0,0,1,1,0,Family
+Barcelona,33,89,8,1,3,7,1,0,Culture
+Cape Town,31,306,0,1,6,2,1,1,Relaxation
+London,24,235,0,1,5,5,1,0,Relaxation
+Kyoto,29,89,3,1,6,7,1,0,Relaxation
+Bali,25,418,6,0,9,9,0,1,Culture
+Bali,18,200,7,1,1,9,1,0,Culture
+Tokyo,12,254,4,1,2,8,1,1,Relaxation
+New York,30,115,3,0,6,4,1,0,Family
+Paris,21,344,4,1,8,7,0,1,Relaxation
+Paris,12,123,4,1,10,10,1,0,Relaxation
+Tokyo,32,385,4,1,2,7,0,1,Relaxation
+Paris,15,186,7,0,9,5,1,0,Culture
+Cape Town,25,177,7,0,5,8,0,0,Culture
+Singapore,20,128,0,0,5,7,0,0,Family
+London,17,72,4,1,6,10,1,0,Relaxation
+Paris,21,194,8,0,8,3,0,0,Culture
+Athens,15,351,2,1,5,10,1,1,Relaxation
+Dubai,33,402,5,0,8,9,1,1,Culture
+Singapore,16,51,2,1,5,7,1,0,Relaxation
+London,17,97,3,0,8,3,0,0,Adventure
+Athens,29,359,8,0,6,7,0,1,Culture
+Tokyo,16,53,7,1,4,5,0,0,Culture
+Singapore,26,350,8,1,2,4,0,1,Culture
+New York,15,158,2,0,3,4,0,0,Family
+Rome,16,85,6,0,1,0,1,0,Culture
+Athens,25,66,3,0,0,10,0,0,Budget
+Kyoto,15,174,0,0,4,10,0,0,Family
+Athens,15,108,3,0,2,10,1,0,Family
+Paris,14,119,4,1,5,2,0,0,Relaxation
+Sydney,30,79,1,0,8,3,0,0,Adventure
+Dubai,17,320,0,0,3,8,1,1,Luxury
+London,34,346,2,1,10,1,0,1,Relaxation
+Singapore,23,239,6,0,8,3,1,0,Culture
+Tokyo,22,108,7,0,8,2,1,0,Culture
+Athens,23,405,4,0,1,5,1,1,Luxury
+Tokyo,24,190,7,1,10,7,0,0,Culture
+Sydney,25,193,6,0,1,7,1,0,Culture
+Bali,12,390,7,0,6,7,0,1,Culture
+Tokyo,16,247,6,0,2,1,1,0,Culture
+Rome,22,147,6,0,3,6,1,0,Culture
+Dubai,34,342,4,1,5,7,1,1,Relaxation
+Kyoto,28,187,2,1,1,1,1,0,Relaxation
+Kyoto,27,163,2,0,1,0,0,0,Family
+Kyoto,33,58,2,1,9,10,1,0,Relaxation
+Bali,21,363,1,0,10,8,1,1,Adventure
+Athens,26,148,4,1,7,8,1,0,Relaxation

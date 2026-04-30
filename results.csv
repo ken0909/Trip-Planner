@@ -1,0 +1,4 @@
+model,params,accuracy,f1_macro,timestamp
+logreg,default,0.88,0.86,2026-04-29
+rf,default,0.92,0.91,2026-04-29
+rf_tuned,"n_estimators=250,max_depth=20",0.94,0.93,2026-04-29
